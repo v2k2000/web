@@ -1,0 +1,51 @@
+h3 {
+    color: green;
+}
+
+li {
+    list-style-type:  none;
+    color: red;
+}
+
+.square {
+    list-style-type: square;
+}
+
+.roman {
+    list-style-type: upper-roman;
+    color: blue;
+}
+
+#first {
+    color: pink;
+}
+
+li.square#first {
+    font-size: 50px;
+}
+
+a:hover {
+    color:brown;
+}
+
+a:visitied {
+    color: green;
+}
+
+div.square {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+
+}
+
+.border {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
+
+.margin {
+    margin-top: 5px;
+    margin-left: 10px;
+}
